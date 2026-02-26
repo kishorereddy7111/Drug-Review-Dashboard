@@ -85,7 +85,7 @@ Highlighted regions needing expert-level expansion
 Provided data-driven recommendations for strategic planning
 
 6. Screenshot
-   
+   Example : (https://github.com/kishorereddy7111/Drug-Review-Dashboard/blob/main/Screenshot%202026-02-26%20153548.png)
 
 
 
